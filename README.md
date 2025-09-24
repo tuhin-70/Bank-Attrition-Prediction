@@ -1,1 +1,1 @@
-# Bank-Churn-Prediction
+# Bank-Attrition-Prediction
